@@ -1,0 +1,38 @@
+body {
+    background-color: #272B30 !important;
+    height: 100vh;
+    
+}
+
+header {
+    background-image: url(wraper.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30vh;
+    background-color: #272B30 !important;
+   
+   
+}
+
+nav {
+    font-family: cursive; 
+    background-color: #3A497B ; 
+    position: relative;
+    transform: translateY(-50%);
+    
+}
+
+.navbar a {
+    color: white !important;
+}
+
+.zz {
+    color: white;
+   
+}
+
+#xx{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
